@@ -1,3 +1,7 @@
+body{
+    background: rgb(40, 40, 40)
+}
+
 #home {
     background: rgb(40, 40, 40);
     color: white;
@@ -18,5 +22,5 @@
 }
 
 footer p a {
-    margin: 5px 15px;
+    margin: 5px;
 }
